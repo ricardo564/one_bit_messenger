@@ -7,5 +7,13 @@
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:E:\Downloads\Github\one_bit_messenger\db\development.sqlite3</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Rails one_bit_messenger: development" uuid="55cec05b-bf15-4e21-8e94-c5d3c029f846">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\Downloads\Github\one_bit_messenger\db\development.sqlite3</jdbc-url>
+    </data-source>
   </component>
 </project>
